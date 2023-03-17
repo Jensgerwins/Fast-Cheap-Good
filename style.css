@@ -1,0 +1,49 @@
+* {
+ 
+font-size: 12px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+background-color: aqua;
+color:brown;
+
+}
+
+h1 {
+
+color: blue;
+font-size: 16px;
+padding: 5rem;
+
+}
+
+#fast {
+display: flex;
+
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 3rem;
+
+
+
+
+}
+
+#cheap {
+    display: flex;
+
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 3rem;
+
+}
+
+#good {
+    display: flex;
+
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 3rem;
+
+}
